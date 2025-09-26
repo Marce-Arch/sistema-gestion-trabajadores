@@ -10,6 +10,6 @@ Sistema desarrollado en JavaScript para la gestión de trabajadores de la Univer
 - Programación orientada a objetos
 
 ## Instalación
-
+```bash
 npm install readline-sync
 node sistema_trabajadores.js
