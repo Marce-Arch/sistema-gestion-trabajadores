@@ -7,7 +7,6 @@ Sistema desarrollado en JavaScript para la gestión de trabajadores de la Univer
 - Gestión completa de trabajadores (CRUD)
 - Búsquedas y consultas específicas
 - Interfaz de línea de comandos
-- Programación orientada a objetos
 
 ## Instalación
 ```bash
