@@ -10,5 +10,5 @@ Sistema desarrollado en JavaScript para la gestión de trabajadores de la Univer
 
 ## Instalación
 ```bash
-npm install readline-sync
+Linux: sudo apt install nodejs // sudo pacman -S nodejs
 node sistema_trabajadores.js
